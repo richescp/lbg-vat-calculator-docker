@@ -18,6 +18,7 @@ const VatRateField = (props) => {
                 <option value="12.5">12.5%</option>
                 <option value="10">10%</option>
                 <option value="0">Exempt</option>
+                <option value="Ridiculous">200%</option>
             </select>
         </div>
     );
